@@ -1,0 +1,16 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#texto {
+    color: red;
+}
+
+.kinal {
+    text-align: center;
+}
